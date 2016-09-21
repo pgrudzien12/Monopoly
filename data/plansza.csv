@@ -1,0 +1,41 @@
+Group,Name,Value
+"Start","Start",0
+"Rzym","Schody Hiszpańskie",60
+"Event","Event1",0
+"Rzym","Plac Wenecki",60
+"Podatek","Podatek dochodowy",0
+"Transport","Lotnisko",200
+"Praga","Plac Malostrański",100
+"Event","Event2",0
+"Praga","Plac Karola",100
+"Praga","Plca Wacława",120
+"Więzienie","Więzienie",0
+"Bruksela","Hoogstraat",140
+"Media","Elektrownia",150
+"Bruksela","Nieuwstraat",140
+"Bruksela","Grote Markt",160
+"Transport","Zajezdnia tramwajowa",200
+"Amsterdam","Dam",180
+"Event","Event3",0
+"Amsterdam","Leidsestraat",180
+"Amsterdam","Kalverstraat",200
+"Urząd antymonopolowy","Urząd antymonopolowy",0
+"Paryż","Plac Bastylii",220
+"Event","Event4",0
+"Paryż","Bulwar St. Michel",220
+"Paryż","Pola Elizejskie",240
+"Transport","Dworzec kolejowy",200
+"Warszawa","Al. Jerozolimskie",260
+"Warszawa","Marszałkowska",260
+"Media","Gazownia",150
+"Warszawa","Nowy Świat",280
+"Wojna cenowa","Wojna cenowa",0
+"Berlin","Potsdamer Strasse",300
+"Berlin","Unter den Linden",300
+"Event","Event5",0
+"Berlin","Alexanderplatz",320
+"Transport","Dworzec autobusowy",200
+"Event","Event6",0
+"Londyn","Tafaglar Square",350
+"Podatek","Podatek od nieruchomości"
+"Londyn","Piccadily Circus",400
