@@ -1,0 +1,13 @@
+Event stroming
+
+##Domain Events
+Game ends
+Banker sells to player :Ownership Title:
+Banker sells to player :House:
+Banker sells to player :Apartment:
+Banker pays to player salary for passing Start
+Banker takes money from player
+Banker gives money to player
+Banker grants mortgage
+Banker takes money for mortgage payments
+Division of roles 
