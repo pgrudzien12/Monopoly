@@ -1,13 +1,37 @@
 Event stroming
 
-##Domain Events
-Game ends
+## Domain Events
 Banker sells to player :Ownership Title:
 Banker sells to player :House:
-Banker sells to player :Apartment:
+Banker sells to player :Hotel:
 Banker pays to player salary for passing Start
 Banker takes money from player
 Banker gives money to player
 Banker grants mortgage
 Banker takes money for mortgage payments
-Division of roles 
+Banker sets up the game
+Players are given starting money
+Game starts
+Turn ends
+Turn starts
+Game ends
+Player tossed doublet
+Player's pawn moves on the board
+Player's pawn stops at real estate
+Player resigns from buying
+Monopolist monopolizes the city
+Player pass along starting square
+
+## Commands
+C Player throws dices
+C Player buys real estate
+C Entrepreneur builds a house
+C Entrepreneur builds a hotel
+C Monopolist builds a house
+C Monopolist builds a hotel
+C Player pledges a real estate
+C Player choose role from avaliable pool
+
+## Aggregates
+Player
+Banker
