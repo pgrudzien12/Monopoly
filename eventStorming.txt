@@ -1,4 +1,4 @@
-Event stroming
+Event storming
 
 ## Domain Events
 Banker sells to player :Ownership Title:
@@ -6,14 +6,14 @@ Banker sells to player :House:
 Banker sells to player :Hotel:
 Banker pays to player salary for passing Start
 Banker takes money from player
-Banker gives money to player
++ Banker gives money to player
 Banker grants mortgage
 Banker takes money for mortgage payments
-Banker sets up the game
-Players are given starting money
++ Banker sets up the Game
++ Players are given starting money
 Game starts
-Turn ends
-Turn starts
+Game turn ends
+Game turn starts
 Game ends
 Player tossed doublet
 Player's pawn moves on the board
@@ -30,7 +30,8 @@ C Entrepreneur builds a hotel
 C Monopolist builds a house
 C Monopolist builds a hotel
 C Player pledges a real estate
-C Player choose role from avaliable pool
+C Player choose role from roles pool
+C Player choose pawn from pawns pool
 
 ## Aggregates
 Player
